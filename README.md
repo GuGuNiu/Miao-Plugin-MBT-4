@@ -1,18 +1,14 @@
 <p align="center">
-  <img src="https://s2.loli.net/2025/04/13/vmLCJ54kUWxB83f.png" width="70%">
+  <img src="https://s2.loli.net/2025/05/21/PGRHraq1OZ7efkE.webp" width="70%">
 </p>
 
 <div align="center"> 
   
-  [![访问量](https://profile-counter.glitch.me/Miao-Plugin-MBT/count.svg)](https://github.com/GuGuNiu/Miao-Plugin-MBT)
+  [![访问量](https://profile-counter.glitch.me/Miao-Plugin-MBT-4/count.svg)](https://github.com/GuGuNiu/Miao-Plugin-MBT-4)
   
 </div>
 
 
-<div align="center"> 
-
-不管是哪个角色都会更新最最新的面板图，让面板图不在是迂腐不变的，符合咕咕牛审美的都会加
-</div>
 
 ## 📄 简介
 
